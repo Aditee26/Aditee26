@@ -33,7 +33,7 @@ aditeesingh001@gmail.com
 ---
 
 ### 🛠️ Languages and Tools
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
@@ -44,16 +44,5 @@ aditeesingh001@gmail.com
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-![Aditee26 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditee26&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 GitHub Streak
-![Aditee26 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditee26&theme=tokyonight)
