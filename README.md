@@ -1,31 +1,29 @@
 <h1 align="center">Hi 👋, I'm Aditee Singh</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aditee26&label=Profile%20views&color=0e75b6&style=flat" alt="aditee26" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditee26&label=Profile%20views&color=0e75b6&style=flat" alt="Aditee26" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aditee26&theme=tokyonight" alt="aditee26" />
-  </a>
+<p align="center">
+  [![Trophies](https://github-profile-trophy.vercel.app/?username=Aditee26&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
 
-### 🌱 I’m currently learning  
+### 🌱 I’m currently learning
 **Flutter, MERN Stack, Firebase, UI/UX, System Design, DSA in C++**
 
-### 💬 Ask me about  
+### 💬 Ask me about
 **React, Flutter, GSAP, C++, App Dev, JavaScript**
 
-### 📫 How to reach me  
+### 📫 How to reach me
 **aditeesingh001@gmail.com**
 
 ---
 
-## 🌐 Connect with me  
-<p align="left">
+## 🌐 Connect with me
+<p align="center">
 
 <a href="https://linkedin.com/in/aditee-singh-92119a30b" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -44,8 +42,7 @@
 ---
 
 ## 🛠️ Languages and Tools
-
-<p align="left">
+<p align="center">
 
 <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
@@ -74,8 +71,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditee26&show_icons=true&theme=tokyonight" alt="Aditee26 stats" />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditee26&show_icons=true&theme=tokyonight" alt="Aditee26 stats" />
 </p>
-
