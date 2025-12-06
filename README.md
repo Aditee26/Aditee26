@@ -76,6 +76,6 @@
 
 ## 📊 GitHub Stats  
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditee26&show_icons=true&theme=tokyonight" alt="aditee26 stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditee26&show_icons=true&theme=tokyonight" alt="Aditee26 stats" />
 </p>
 
