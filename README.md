@@ -2,9 +2,7 @@
 ### A passionate Developer from India  
 **GitHub Username:** Aditee26
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Aditee26&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
 ### 🌱 I’m currently learning
 Flutter, MERN Stack, Firebase, UI/UX, System Design, DSA in C++
