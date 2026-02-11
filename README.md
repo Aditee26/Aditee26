@@ -15,9 +15,7 @@ Ask Me About
 
 React.js • Flutter • JavaScript • C++ • REST APIs • Firebase • App Development
 
-Contact
-
-aditeesingh2006@gmail.com
+Email:aditeesingh2006@gmail.com
 
 Portfolio: https://aditeesingh.netlify.app/
 
