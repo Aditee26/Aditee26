@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;MERN+Stack+%7C+Backend+Developer;DSA+Enthusiast;Exploring+Cloud+%26+System+Design"/> </p>
 About Me
 
-• Computer Science Engineering student with CGPA: 8.93
+• Computer Science Engineering student with CGPA: 8.83
 
 • Passionate about building scalable applications and real-world solutions
 
@@ -20,7 +20,7 @@ Tech Focus
 • Full Stack Web Development
 • Backend Development
 • REST API Development
-• Cloud Fundamentals (AWS & GCP)
+• Cloud and DevOps (AWS & Docker)
 • Data Structures & Algorithms
 • System Design Fundamentals
 
