@@ -88,7 +88,7 @@ I enjoy building products from idea to deployment — designing APIs, working wi
 
 ### 🏆 Hackathons & Challenges
 
-[![Ideathon](https://img.shields.io/badge/MLSA_MIET-Ideathon-E91E63?style=flat-square)](https://raw.githubusercontent.com/Aditee26/certificates/main/ideathon.jpeg)
+[![Ideathon](https://img.shields.io/badge/Ideathon-E91E63?style=flat-square)](https://raw.githubusercontent.com/Aditee26/certificates/main/ideathon.jpeg)
 
 [![GenAI Exchange Hackathon](https://img.shields.io/badge/Google_Cloud-GenAI_Exchange_Hackathon-FF8A3D?style=flat-square&logo=googlecloud&logoColor=white)](https://raw.githubusercontent.com/Aditee26/certificates/main/genaihackathon.jpeg)
 
