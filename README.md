@@ -53,7 +53,6 @@ I enjoy building products from idea to deployment — designing APIs, working wi
 `Oct 2025 – Feb 2026`
 
 🏅 Received **Intern of the Month** — 5/5 performance rating
-
 <br/>
 
 ## 🏆 Achievements
@@ -63,6 +62,7 @@ I enjoy building products from idea to deployment — designing APIs, working wi
 🎯 **GATE CS** — Qualified in 3rd year
 
 <br/>
+
 ## 📜 Certifications & Achievements
 
 ### ☁️ Cloud & Development
